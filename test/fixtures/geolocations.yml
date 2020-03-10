@@ -1,0 +1,35 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ip: '31.172.186.111'
+  ip_type: MyString
+  continent_code: MyString
+  continent_name: MyString
+  country_code: MyString
+  country_name: MyString
+  region_code: MyString
+  region_name: MyString
+  city: MyString
+  zip: MyString
+  latitude: 1.5
+  longitude: 1.5
+  geoname_id: 1
+  capital: MyString
+  is_eu: false
+
+two:
+  ip: '31.172.186.114'
+  ip_type: MyString
+  continent_code: MyString
+  continent_name: MyString
+  country_code: MyString
+  country_name: MyString
+  region_code: MyString
+  region_name: MyString
+  city: MyString
+  zip: MyString
+  latitude: 1.5
+  longitude: 1.5
+  geoname_id: 1
+  capital: MyString
+  is_eu: false
